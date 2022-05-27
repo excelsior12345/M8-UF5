@@ -9,9 +9,11 @@ package uf6.ex1;
  *
  * @author josue
  */
-public class Ex1 {hola
-
+public class Ex1 {
+int i =0;
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
+
+
 }
